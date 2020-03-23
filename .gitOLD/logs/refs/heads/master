@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 bcfc0eb0e683993ad0c51bacad8d4b354e769393 Stone <stone@securesystemdesign.io> 1527047571 +0000	clone: from https://github.com/sammy007/open-ethereum-pool.git
+bcfc0eb0e683993ad0c51bacad8d4b354e769393 46577189d47a38fbbb935a8f022b313b8b94c46a Stone <stone@securesystemdesign.io> 1527049509 +0000	commit: added GLX docs
+46577189d47a38fbbb935a8f022b313b8b94c46a b70f0759fce1d5eed412d62575ee8b05e85b04d0 Stone <stone@securesystemdesign.io> 1527049808 +0000	commit: file maint
+b70f0759fce1d5eed412d62575ee8b05e85b04d0 35381b4100af3e24b141ac4a5a5bd69aa7569121 Stone <stone@securesystemdesign.io> 1527049874 +0000	commit (merge): file maint
+35381b4100af3e24b141ac4a5a5bd69aa7569121 37e14df43357945f94d073dcdae83c3f3812bfd1 Stone <stone@securesystemdesign.io> 1527050511 +0000	commit: updated docs
+37e14df43357945f94d073dcdae83c3f3812bfd1 b372890a7298a4f153b65f0e0026167a4d223151 Stone <stone@securesystemdesign.io> 1527050735 +0000	commit: re-branded index.hbs Ethereum --> Galaxias
+b372890a7298a4f153b65f0e0026167a4d223151 ff3fcde27843e1c9208b5c3221d830ba2ec12208 Stone <stone@securesystemdesign.io> 1527050880 +0000	commit: updated README.md

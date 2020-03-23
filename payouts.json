@@ -1,0 +1,39 @@
+{
+    "threads": 2,
+    "coin": "glx",
+    "name": "mygreatpool",
+
+	"redis": {
+		"endpoint": "127.0.0.1:6379",
+		"poolSize": 10,
+		"database": 0,
+		"password": ""
+	},
+
+	"unlocker": {
+		"enabled": false,
+		"poolFee": 1.0,
+		"poolFeeAddress": "",
+		"donate": false,
+		"depth": 120,
+		"immatureDepth": 20,
+		"keepTxFees": false,
+		"interval": "10m",
+		"daemon": "http://127.0.0.1:8545",
+		"timeout": "10s"
+	},
+
+	"payouts": {
+		"enabled": true,
+		"requirePeers": 1,
+		"interval": "5m",
+		"daemon": "http://127.0.0.1:8545",
+		"timeout": "10s",
+		"address": "0x2eefbbbcc328610529da341267f9cfa4f281300e",
+		"gas": "21000",
+		"gasPrice": "50000000000",
+		"autoGas": true,
+		"threshold": 500000000,
+		"bgsave": false
+	}
+}

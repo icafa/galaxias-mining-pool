@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "old-origin"]
+	url = https://github.com/sammy007/open-ethereum-pool.git
+	fetch = +refs/heads/*:refs/remotes/old-origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "origin"]
+	url = git@gitlab.securesystemdesign.io:GALAXIAS/OpenGalaxiasPool.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
